@@ -14,3 +14,4 @@ recomendo utilizar o winrar é mais eficiente para isso e seguro você deve cria
 
 Você também deve definir um arquivo json dentro do diretório do jogo com o nome do executável e a versão dele que servirá para futuras atualizações e na parte do seu servidor um arquivo de notícias com a notícia é a última versão do jogo se você adicionar uma versão mais nova você irá definir ali que o inicializador verá diferença irá mudar o botão de iniciar para atualizar baixe e faça um teste
 na pasta teste está o arquivo de notícias e um exemplo do diretório do jogo que cujo é o que está definido no arquivo que você vai baixar para testar faça testes e mudanças corrija erros a base está pronta
+o design do inicializador é uma imagem que você pode colocar imagens bonitas claro eu só coloquei imagens de teste
