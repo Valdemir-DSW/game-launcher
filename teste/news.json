@@ -1,0 +1,12 @@
+{
+    "news": [
+        {
+            "vers": "1.4",
+            "content": "We have just released a new update with exciting features and bug fixes."
+        },
+        {
+            "vers": "1.0",
+            "content": "Scheduled server maintenance will take place on July 1st, 2024. Please be aware of potential downtime."
+        }
+    ]
+}
